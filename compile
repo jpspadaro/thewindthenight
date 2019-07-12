@@ -1,2 +1,3 @@
-!#/bin/bash
-cat draft/Day\ One.md draft/Day\ Two.md
+#!/bin/bash
+
+cat draft/Day\ One.md draft/Day\ Two.md>compiled.md
