@@ -1,3 +1,4 @@
+# Day One
 It was a long road that Charlie was on. He'd been hiking north for a while, and was planning on eventually getting up to Canada. Trails and roads and other ways, through private property and public lands. He kept his pack stocked well enough, and had enough money saved away for the duration of the trip.
 
 And right now, he was hitching.
@@ -45,3 +46,5 @@ He ran forward. He knew it was reckless, but he needed to see what was following
 He came to the edge of the dip, and stumbled, falling forward and rolling. He went down a set of stone stairs, briefly seeing what he'd been running toward. It was a large torus, made of blue glowing stone. It was bright here.
 
 He rolled with the pain of falling down the steps, and smacked his head hard against the stone circle. For a moment before he lost consciousness, he saw a woman standing at chamber entrance he had just tripped into.
+
+

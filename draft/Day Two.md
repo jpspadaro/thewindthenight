@@ -1,3 +1,4 @@
+# Day Two
 Fucking moron. Stupid backpackers. Tanya got up from looking at the unconscious mess that had fallen in from of the portal. She sighed.
 
 He at least needs some real clothes, she thought, and walked back to his campsite. She'd bundle it up as best she could, and maybe he'll wake up. At least he's still breathing.
@@ -86,7 +87,7 @@ Tanya looked up. "It's been lonely the last few years. Real fucking lonely." Her
 
 Charlie was absorbing a lot of this. This was his new normal. He felt like he had to accept it, at least on some level. How long had she been trapped here? Did it matter at this point?
 
-"So have you tried going through the portal."
+"So have you tried going through the portal?"
 
 "I saw my friends go through. They never came back. Considering what happened just because I touched it, I figured it couldn't be any better going in."
 
@@ -109,3 +110,5 @@ Charlie finished his noodles. "I want to go past the road."
 "Yeah."
 
 "Fuck."
+
+Charlie picked up a twig, and started bending it, snapping it into smaller pieces. He was looking into the distance.
