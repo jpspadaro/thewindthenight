@@ -30,4 +30,13 @@ Jonas crept up to the stream. Maybe he could lift her up and check her face. The
 
 *Yeah, that's respectful. Poke the dead girl with a stick.*
 
+He crossed the stream on the narrow wood bridge that was along the trail, holding onto the railing as he looked down at her. He crept up from the other side, then crouched within arm's reach of the body. He still couldn't make out any thing about her other than the red hooded sweatshirt and blue jeans she was wearing. He hesitated.
+
+"Okay, let's do this," the hiker mumbled.
+
+He put his hand out to touch the body's shoulder. It made contact, andthe body rose to it's knees screaming. Jonas fell back, soaking his feet and covering his hands in dirt as he crawled back away. The girl just kneeled there screaming.
+
+---
+
+
 
