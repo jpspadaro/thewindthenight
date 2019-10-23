@@ -10,3 +10,4 @@ This is both an archive and my "working copy" of what gets posted.
 - [003 - Darkness](https://github.com/jpspadaro/thewindthenight/blob/master/003%20-%20Darkness.md)
 - [004 - Trees](https://github.com/jpspadaro/thewindthenight/blob/master/004%20-%20Trees.md)
 - [005 - Forest](https://github.com/jpspadaro/thewindthenight/blob/master/001%20-%20Forest.md)
+- [006 - The King is Dead](https://github.com/jpspadaro/thewindthenight/blob/master/006%20-%20The%20King%20is%20Dead.md)
