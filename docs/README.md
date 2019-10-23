@@ -1,5 +1,7 @@
 # *The Wind, The Night* Archive
-Find the newest at: https://write.as/jpspadaro/
+Find the newest official at: https://write.as/jpspadaro/
+
+This is both an archive and my "working copy" of what gets posted.
 
 > **Warning: Browsing around this repository probably contains spoilers. The entries below should be safe.**
 
