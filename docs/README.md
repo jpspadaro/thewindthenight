@@ -11,3 +11,4 @@ This is both an archive and my "working copy" of what gets posted.
 - [004 - Trees](https://github.com/jpspadaro/thewindthenight/blob/master/004%20-%20Trees.md)
 - [005 - Forest](https://github.com/jpspadaro/thewindthenight/blob/master/001%20-%20Forest.md)
 - [006 - The King is Dead](https://github.com/jpspadaro/thewindthenight/blob/master/006%20-%20The%20King%20is%20Dead.md)
+- [007 - Walk](https://github.com/jpspadaro/thewindthenight/blob/master/007%20-%20Walk.md)
